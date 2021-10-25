@@ -1,4 +1,4 @@
-function ssc_init() {
+ function ssc_init() {
     if (!document.body)return;
     var e = document.body;
     var t = document.documentElement;
